@@ -1,4 +1,4 @@
-# STUDENT-MANAGEMENT-SYSTEM.OOP-
+# student-management-system-oop.
 
 1. Adding new students.
 2. Viewing student details (name, ID, and grades).
